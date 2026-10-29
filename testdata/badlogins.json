@@ -1,0 +1,6 @@
+[
+  { "username": "standard_user", "password": "wrong", "message": "do not match" },
+  { "username": "locked_out_user", "password": "secret_sauce", "message": "locked out" },
+  { "username": "wrong_user", "password": "secret_sauce", "message": "do not match" },
+  { "username": "empty_user", "password": "wrong_pass", "message": "Username and password do not match" }
+]
